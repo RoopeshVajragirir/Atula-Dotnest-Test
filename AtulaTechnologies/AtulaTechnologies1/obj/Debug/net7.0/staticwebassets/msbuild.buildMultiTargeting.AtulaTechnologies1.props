@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AtulaTechnologies1.props" />
+</Project>
